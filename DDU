@@ -13,18 +13,6 @@
   },
   {
     "number": 1,
-    "route": "52S",
-    "destZ": "平山",
-    "destY": "耀興道",
-    "maxPZ": "1",
-    "priceZ1": "$7.3",
-    "halfpriceZ1": "$4.2",
-    "maxPY": "1",
-    "priceY1": "4.3",
-    "halfpriceY1": "2.2"
-  },
-  {
-    "number": 2,
     "route": "248M",
     "destZ": "新南邨",
     "destY": "安西站",
@@ -36,19 +24,15 @@
     "halfpriceY1": "$3.1"
   },
   {
-    "number": 3,
-    "route": "240",
-    "destZ": "新南邨",
-    "destY": "十二門南",
-    "maxPZ": "2",
-    "priceZ1": "7.2",
-    "halfpriceZ1": "4.1",
-    "priceZ2": "5.2",
-    "halfpriceZ2": "3.1",
-    "maxPY": "2",
-    "priceY1": "7.2",
-    "halfpriceY1": "4.1",
-    "priceY2": "5.2",
-    "halfpriceY2": "3.1"
-  }
+    "number": 2,
+    "route": "399",
+    "destZ": "石代碼頭",
+    "destY": "夢洲",
+    "maxPZ": "1",
+    "priceZ1": "$24.0",
+    "halfpriceZ1": "$12.0",
+    "maxPY": "1",
+    "priceY1": "14.8",
+    "halfpriceY1": "7.4"
+  },
 ]
