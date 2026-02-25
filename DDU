@@ -13,6 +13,18 @@
   },
   {
     "number": 1,
+    "route": "201X",
+    "destZ": "石代碼頭",
+    "destY": "鉑科町站",
+    "maxPZ": "1",
+    "priceZ1": "$7.8",
+    "halfpriceZ1": "$3.9",
+    "maxPY": "1",
+    "priceY1": "$7.8",
+    "halfpriceY1": "$3.9"
+  },
+  {
+    "number": 2,
     "route": "248M",
     "destZ": "新南邨",
     "destY": "安西站",
@@ -24,7 +36,7 @@
     "halfpriceY1": "$3.1"
   },
   {
-    "number": 2,
+    "number": 3,
     "route": "S26",
     "destZ": "⽯代碼頭",
     "destY": "⽯代碼頭",
@@ -36,7 +48,7 @@
     "halfpriceY1": "$19.9"
   },
   {
-    "number": 3,
+    "number": 4,
     "route": "T90",
     "destZ": "夢洲",
     "destY": "夢洲",
@@ -48,7 +60,7 @@
     "halfpriceY1": "$2.1"
   },
   {
-    "number": 4,
+    "number": 5,
     "route": "399",
     "destZ": "石代碼頭",
     "destY": "夢洲",
@@ -56,7 +68,7 @@
     "priceZ1": "$16.2",
     "halfpriceZ1": "$8.1",
     "maxPY": "1",
-    "priceY1": "16.2",
-    "halfpriceY1": "8.1"
+    "priceY1": "$16.2",
+    "halfpriceY1": "$8.1"
   }
 ]
