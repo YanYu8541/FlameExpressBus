@@ -53,7 +53,14 @@
     "Z6": "0",
     "Z6time": 3,
     "Z6C": "石代碼頭",
-    "Z6E": "Ishiro Pier"
+    "Z6E": "Ishiro Pier",
+    "ZT1C": "我們已經到達終點站",
+    "ZT2C": "下車時請携帶您的隨身物品",
+    "ZT3C": "多謝選乘焰城特快",
+    "ZT1E": "We have now arrived at the terminus",
+    "ZT2E": "Please take your belongings with you when alighting",
+    "ZT3E": "Thank you for choosing Flame Express",
+    "ZTtime": 4
   },
   {
     "number": 4,
@@ -122,6 +129,13 @@
     "Z11time": 3,
     "Z11C": "新南邨",
     "Z11E": "Sun Nam Estate",
+    "ZT1C": "我們已經到達終點站",
+    "ZT2C": "下車時請携帶您的隨身物品",
+    "ZT3C": "多謝選乘焰城特快",
+    "ZT1E": "We have now arrived at the terminus",
+    "ZT2E": "Please take your belongings with you when alighting",
+    "ZT3E": "Thank you for choosing Flame Express",
+    "ZTtime": 4,
     "Y1": "0",
     "Y1time": 3,
     "Y1speed": 70,
@@ -180,7 +194,14 @@
     "Y12": "0",
     "Y12time": 3,
     "Y12C": "安西站",
-    "Y12E": "On Sai Station"
+    "Y12E": "On Sai Station",
+    "YT1C": "我們已經到達終點站",
+    "YT2C": "下車時請携帶您的隨身物品",
+    "YT3C": "多謝選乘焰城特快",
+    "YT1E": "We have now arrived at the terminus",
+    "YT2E": "Please take your belongings with you when alighting",
+    "YT3E": "Thank you for choosing Flame Express",
+    "YTtime": 4
   },
   {
     "number": 5,
@@ -221,6 +242,13 @@
     "Z3time": 3,
     "Z3C": "夢洲交通交會處",
     "Z3E": "Dream Island Transportation Hub",
+    "ZT1C": "我們已經到達終點站",
+    "ZT2C": "下車時請携帶您的隨身物品",
+    "ZT3C": "多謝選乘焰城特快",
+    "ZT1E": "We have now arrived at the terminus",
+    "ZT2E": "Please take your belongings with you when alighting",
+    "ZT3E": "Thank you for choosing Flame Express",
+    "ZTtime": 4,
     "Y1": "0",
     "Y1time": 3,
     "Y1C": "鉑科轉車站",
@@ -232,6 +260,13 @@
     "Y3": "0",
     "Y3time": 3,
     "Y3C": "石代碼頭",
-    "Y3E": "Ishiro Pier"
+    "Y3E": "Ishiro Pier",
+    "YT1C": "我們已經到達終點站",
+    "YT2C": "下車時請携帶您的隨身物品",
+    "YT3C": "多謝選乘焰城特快",
+    "YT1E": "We have now arrived at the terminus",
+    "YT2E": "Please take your belongings with you when alighting",
+    "YT3E": "Thank you for choosing Flame Express",
+    "YTtime": 4
   }
 ]
