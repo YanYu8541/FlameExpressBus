@@ -37,18 +37,6 @@
   },
   {
     "number": 3,
-    "route": "S26",
-    "destZ": "⽯代碼頭",
-    "destY": "⽯代碼頭",
-    "maxPZ": "1",
-    "priceZ1": "$39.8",
-    "halfpriceZ1": "$19.9",
-    "maxPY": "1",
-    "priceY1": "$39.8",
-    "halfpriceY1": "$19.9"
-  },
-  {
-    "number": 4,
     "route": "T90",
     "destZ": "夢洲",
     "destY": "夢洲",
@@ -60,7 +48,7 @@
     "halfpriceY1": "$2.1"
   },
   {
-    "number": 5,
+    "number": 4,
     "route": "399",
     "destZ": "石代碼頭",
     "destY": "夢洲",
