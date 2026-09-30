@@ -13,6 +13,18 @@
   },
   {
     "number": 1,
+    "route": "A39",
+    "destZ": "東明街",
+    "destY": "機場",
+    "maxPZ": "1",
+    "priceZ1": "$10.2",
+    "halfpriceZ1": "$5.1",
+    "maxPY": "1",
+    "priceY1": "$10.2",
+    "halfpriceY1": "$5.1"
+  },
+  {
+    "number": 2,
     "route": "201X",
     "destZ": "石代碼頭",
     "destY": "鉑科町站",
@@ -24,7 +36,7 @@
     "halfpriceY1": "$3.9"
   },
   {
-    "number": 2,
+    "number": 3,
     "route": "248M",
     "destZ": "新南邨",
     "destY": "安西站",
@@ -36,7 +48,7 @@
     "halfpriceY1": "$3.1"
   },
   {
-    "number": 3,
+    "number": 4,
     "route": "T90",
     "destZ": "夢洲",
     "destY": "夢洲",
@@ -48,7 +60,7 @@
     "halfpriceY1": "$2.1"
   },
   {
-    "number": 4,
+    "number": 5,
     "route": "399",
     "destZ": "石代碼頭",
     "destY": "夢洲",
