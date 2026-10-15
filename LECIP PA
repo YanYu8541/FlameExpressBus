@@ -1,1 +1,61 @@
+{
+  "1": "0",
+  "1D": "1.  緊握扶手",
+  "1C": "請緊握扶手",
+  "1E": "Please hold the handrail",
+  "1time": "3",
 
+  "2": "0",
+  "2D": "2.  放好行李",
+  "2C": "請將隨身行李放於行李架上，切勿佔用座位或阻塞通道。",
+  "2E": "Please place your luggage in the rack provided and do not block the aisle.",
+  "2time": "3",
+
+  "3": "0",
+  "3D": "3.  保持車廂清潔",
+  "3C": "請保持車廂清潔，請勿隨地吐痰或拋棄垃圾。",
+  "3E": "Please keep the bus clean and do not litter.",
+  "3time": "3",
+
+  "4": "0",
+  "4D": "4.  突發事故過客",
+  "4C": "本車因突發事故暫停服務，請乘客有序轉乘後方班次。",
+  "4E": "This service is temporarily suspended due to an incident. Please transfer to the following bus.",
+  "4time": "4",
+
+  "5": "0",
+  "5D": "5.  上層仍有座位",
+  "5C": "上層仍有大量空餘座位，請往上層就座。",
+  "5E": "Seats are still available on the upper deck. Please move upstairs.",
+  "5time": "3",
+
+  "6": "0",
+  "6D": "6.  行入車尾",
+  "6C": "請各位乘客往車尾移動，保持車門入口暢通。",
+  "6E": "Please move towards the rear of the bus to keep the entrance clear.",
+  "6time": "3",
+
+  "7": "0",
+  "7D": "7.  上層及梯間勿站立",
+  "7C": "為了閣下的安全，上層及樓梯梯間嚴禁站立。",
+  "7E": "For your safety, standing on the upper deck or staircase is strictly prohibited.",
+  "7time": "4",
+
+  "8": "0",
+  "8D": "8.  擠塞，班次受阻",
+  "8C": "前方道路交通擠塞，本班次行車時間將會延長。",
+  "8E": "Due to heavy traffic ahead, journey time will be extended.",
+  "8time": "4",
+
+  "9": "0",
+  "9D": "9.  改道，車站受影響",
+  "9C": "本班次因道路封閉改道行駛，部分車站將暫停服務。",
+  "9E": "This bus is diverted due to road closure. Some stops will be temporarily suspended.",
+  "9time": "4",
+
+  "10": "0",
+  "10D": "10.  改道，車程延長",
+  "10C": "受臨時改道影響，預計車程將有所延長，敬請原諒。",
+  "10E": "Please be advised that journey time will be longer due to a temporary detour.",
+  "10time": "4"
+}
