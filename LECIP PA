@@ -57,5 +57,11 @@
   "10D": "10.  改道，車程延長",
   "10C": "受臨時改道影響，預計車程將有所延長，敬請原諒。",
   "10E": "Please be advised that journey time will be longer due to a temporary detour.",
-  "10time": "4"
+  "10time": "4",
+
+  "21": "0",
+  "21D": "21.  閉路電視監察",
+  "21C": "為保障閣下安全，本巴士已安裝閉路電視系統進行監察。",
+  "21E": "CCTV is used on this bus for your safety and security during the journey",
+  "21time": "4"
 }
