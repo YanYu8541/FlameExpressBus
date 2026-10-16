@@ -12,7 +12,7 @@
   "2E1": "CCTV is used on this bus",
   "2E2": "for your safety and security",
   "2E3": "during the journey",
-  "2time": "3"
+  "2time": "3",
 
   "3": "75123870970073",
   "3D": "3.  終點站",
@@ -22,7 +22,7 @@
   "3E1": "We have now arrived at the terminus",
   "3E2": "Please take all the belongings when alighting",
   "3E3": "Thank you for choosing Flame Express",
-  "3time": "3"
+  "3time": "3",
 
   "4": "79130305765468",
   "4D": "4.  聲音測試",
@@ -40,5 +40,5 @@
   "5C3": "請小心駕駛",
   "5C4": "巡車時候須作簡單機械檢查",
   "5C5": "確保行車安全",
-  "5time": "3",
+  "5time": "3"
 }
